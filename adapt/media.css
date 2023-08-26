@@ -232,7 +232,7 @@ textarea {
     /* Blocks */
 
     .elips {
-        background-image: url(/imgMainContent/ellipseadapt.png);
+        background-image: url(imgMainContent/ellipseadapt.png);
         width: 40px;
         height: 40px;
     }
