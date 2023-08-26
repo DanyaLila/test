@@ -231,18 +231,18 @@ textarea {
 
     /* Blocks */
 
-    .elips {
-        background: url(../imgMainContent/ellipseadapt.png);
-        width: 40px;
-        height: 40px;
-    }
-
     .main-img-1 {
         display: none;
     }
 
     .main-img-2 {
         display: block;
+    }
+
+    .elips {
+        background: url(../imgMainContent/ellipseadapt.png);
+        width: 40px;
+        height: 40px;
     }
 
     /* Footer */
