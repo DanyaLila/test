@@ -175,7 +175,7 @@ img {
 /* Blocks */
 
 .elips {
-    background-image: url(./imgMainContent/ellipse.png);
+    background: url(../imgMainContent/ellipse.png);
     width: 80px;
     height: 80px;
     display: flex;
